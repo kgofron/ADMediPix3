@@ -1,5 +1,7 @@
 # Medipix3 EPICS Project Plan
 
+> Note: The scope-frozen execution plan is tracked in `docs/implementation-plan.md`. This document captures the earlier compatibility/discovery and architecture-decision track.
+
 ## Goal
 
 Deliver production-ready Medipix3 EPICS support with evidence-based decision on:
